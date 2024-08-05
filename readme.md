@@ -40,7 +40,7 @@ This project includes a Directus configuration and a Svelte project integrated w
      ```bash
      npm run dev
      ```
-   - Open your browser and navigate to `http://localhost:3000` to view the application.
+   - Open your browser and navigate to `http://localhost:8080` to view the application.
 
 ## Additional Instructions
 
